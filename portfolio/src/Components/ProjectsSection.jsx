@@ -20,6 +20,16 @@ const projects = [
         demoUrl : "https://chatapp-frontend-theta-two.vercel.app/",
         githubUrl : "https://github.com/muskansikka1234/chatapp",
     },
+
+    {
+        id : 3,
+        title : "CodeSync - Collaborative Code Editor",
+        description : "Real-time collaborative code editor with syntax highlighting and multi-user support. Built using React, Node.js and Socket.IO.",
+        image : "/projects/Project3.png",
+        tags : ["React", "Node.js", "Socket.io"],
+        demoUrl : "https://code-editor-5-63za.onrender.com/",
+        githubUrl : "https://github.com/muskansikka1234/Code-editor",
+    },
 ]
 
 export const ProjectsSection = () => {
