@@ -30,6 +30,16 @@ const projects = [
         demoUrl : "https://code-editor-5-63za.onrender.com/",
         githubUrl : "https://github.com/muskansikka1234/Code-editor",
     },
+
+    {
+        id : 4,
+        title : "AI Resume Builder",
+        description : "An AI-powered resume builder that creates professional, ATS-friendly resumes in minutes. Built to help users showcase their skills effectively and improve their chances of getting shortlisted.",
+        image : "/projects/Project 4.png",
+        tags : ["React", "Node.js", "MongoDB", "AI"],
+        demoUrl : "https://ai-resume-builder-i1li.vercel.app/",
+        githubUrl : "https://github.com/muskansikka1234/AI-Resume-Builder",
+    },
 ]
 
 export const ProjectsSection = () => {
